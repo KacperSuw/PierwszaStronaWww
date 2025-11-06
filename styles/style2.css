@@ -1,0 +1,63 @@
+:root {
+  --background-primary: #151947;
+  --color-primary: #fff;
+}
+
+html {
+  font-family: "Oswald", sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--background-primary);
+  padding: 0 20px;
+  width: 960px;
+}
+
+.header__container__left {
+  display: flex;
+  color: var(--color-primary);
+  text-transform: uppercase;
+  gap: 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.header__container__left p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.header__container__left p:hover {
+  color: red;
+}
+
+.header__container__logo {
+  padding: 20px 20px 4px 20px;
+  margin: 0 80px;
+  background: #000;
+}
+
+.header__container__right {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header__container__right button {
+  background: transparent;
+  border: 2px solid var(--color-primary);
+  color: var(--color-primary);
+  padding: 8px 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  cursor: pointer;
+}
