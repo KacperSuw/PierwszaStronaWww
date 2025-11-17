@@ -1,0 +1,46 @@
+<?php include 'aboutheader.php'; ?></php>
+
+    <content>
+      <div class="content__left">
+        <img src="gamer.jpg" alt="About Us Image" class="main" />
+        <img src="vr.jpeg" alt="VR Image" class="small" />
+        <img src="redsq.png" alt="Red Square Image" class="mini" />
+      </div>
+      <div class="content__right">
+        <div class="content__main__top">
+          <h3>who we are</h3>
+          <h1>we are professional<br>team esport</h1>
+          <p>Distinctively provide acces mutfuncto users whereas transparent proceses
+            somes<br>ncentivize eficient functionalities rather than an extensible archtectur 
+            services<br>and cross</p>
+        </div>
+        <div class="content__main__botom">
+          <div class="content__main__botom__item">
+          <img src="iconmonstr-mouse-8.svg" alt="joystick" class="icon">
+            <div class="content__main__botom__text">
+              <h1>103k Community Earning</h1>
+              <p>Distinctively provide acces mutfuncto users whereas<br>
+                communicate leveraged services </p>
+            </div>
+          </div>
+                    <div class="content__main__botom__item">
+          <img src="iconmonstr-headphones-5.svg" alt="joystick" class="icon">
+            <div class="content__main__botom__text">
+              <h1>34m+ Registered Players</h1>
+              <p>Distinctively provide acces mutfuncto users whereas<br>
+                communicate leveraged services </p>
+            </div>
+          </div>
+                    <div class="content__main__botom__item">
+          <img src="iconmonstr-gamepad-4.svg" alt="joystick" class="icon">
+            <div class="content__main__botom__text">
+              <h1>240k Streams Complete</h1>
+              <p>Distinctively provide acces mutfuncto users whereas<br>
+                communicate leveraged services </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </content>
+  </body>
+</html>
