@@ -132,7 +132,7 @@ a {
 }
 
 content {
-  display: flex;
+
   justify-content: center;
   color: white;
   margin-top: 2rem;
@@ -227,8 +227,11 @@ h2 {
   display: flex;
   justify-content: center;
   align-items:center;
+  width: 1151px;
+  margin-left: 380px;
   color: white;
   margin-top: 2rem;
+
 }
 
 .content__contact__left {
@@ -254,13 +257,6 @@ footer {
   display: flex;
    float: right;
    width: 45%;
-}
-
-footer {
-  display: flex;
-  text-align: center;
-  position: relative;
-  width: 10%;
 }
 
 iframe {
