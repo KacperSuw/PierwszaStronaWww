@@ -18,9 +18,8 @@
           <div class="header_container__left button_container">
             <p>pages</p>
             <div class="button_container__submenu">
-              <a href="https://predatorgames.pl/pl/konkurs-na-krawedzi"
-                ><p>Giveaway</p></a
-              >
+              <a href="OurTeam.php"
+                ><p>Our Team</p></a>
               <a href="https://predatorgames.pl/pl/schedule-predatorgames"
                 ><p>Tournaments</p></a
               >
